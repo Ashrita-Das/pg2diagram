@@ -1,4 +1,4 @@
-# pg2mermaid: PostgreSQL Schema to ERD Generator
+# pg2diagram: PostgreSQL Schema to ERD Generator
 
 A command-line tool written in Go that connects to a live PostgreSQL database, securely extracts the internal system catalogs, and automatically generates a styled Entity-Relationship Diagram (ERD) using Mermaid.js syntax.
 
