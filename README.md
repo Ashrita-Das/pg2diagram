@@ -21,6 +21,6 @@ A command-line tool written in Go that connects to a live PostgreSQL database, s
 Clone the repository and build the binary:
 
 ```bash
-git clone [https://github.com/Ashrita-Das/pg2diagram.git](https://github.com/Ashrita-Das/pg2diagram.git)
+git clone https://github.com/Ashrita-Das/pg2diagram.git
 cd pg2diagram
 go build -o pg2diagram .
