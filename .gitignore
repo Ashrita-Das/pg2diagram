@@ -1,0 +1,12 @@
+# Go Binaries
+/bin/
+pg2diagram
+pg2diagram.exe
+
+# Environment variables / Secrets
+.env
+
+# IDE and OS specific files
+.vscode/
+.idea/
+.DS_Store
